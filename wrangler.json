@@ -6,13 +6,6 @@
     "pages_build_output_dir": "dist",
     "observability": {
       "enabled": true
-    },
-    "d1_databases": [
-      {
-        "binding": "DB",
-        "database_name": "baby-kicks-table",
-        "database_id": "c3553ea1-b330-4b40-ad88-9e99a82c66d5"
-      }
-    ]
+    }
   }
   
